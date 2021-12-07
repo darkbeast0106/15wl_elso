@@ -2,3 +2,4 @@ Harmadik szöveges állomány
 Végleges verzió eltért mindkért eredeti változtatásról, de amúgy bármelyiket választhattam volna
 További változtatás
 Konfliktus
+Itt majd konfliktus lesz
